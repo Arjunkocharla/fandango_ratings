@@ -1,4 +1,4 @@
-# fandango_ratings
+# Is Fandango still displaying false ratings on its website?
 Analysis of fandango movie rating system to determine if the company is appropriating the ratings
 
 In this project we will be analysing the ratings provided by fandango to find out if the company is displaying enhanced ratings
