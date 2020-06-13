@@ -1,5 +1,5 @@
-# Is Fandango still displaying false ratings on its website?
-Analysis of fandango movie rating system to determine if the company is appropriating the ratings
+# Analysis of fandango movie rating system to determine if the company is appropriating the ratings
+
 
 In this project we will be analysing the ratings provided by fandango to find out if the company is displaying enhanced ratings
 to its users. In october 2015, A data journalist by the name of Walt Hickey found out that the ratings on the website of fandango
